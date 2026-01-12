@@ -5,7 +5,12 @@
 # * Taxa do dólar: R$ 5.20
 # * Taxa do euro: R$ 6.15
 # O programa deve calcular e exibir os valores convertidos, arredondando para duas casas decimais.
-# 
+
+valor_Reais = 100.00
+taxa_Dolar = 5.20
+taxa_Euro = 6.15
+
+
 # 2- Calculadora de Desconto
 # Desenvolva um programa que calcula o desconto em uma loja. Use as seguintes informações:
 # 
